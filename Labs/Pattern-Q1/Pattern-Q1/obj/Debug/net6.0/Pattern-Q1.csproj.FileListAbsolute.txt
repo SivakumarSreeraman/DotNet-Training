@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\bin\Debug\net6.0\Pattern-Q1.exe
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\bin\Debug\net6.0\Pattern-Q1.deps.json
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\bin\Debug\net6.0\Pattern-Q1.runtimeconfig.json
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\bin\Debug\net6.0\Pattern-Q1.dll
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\bin\Debug\net6.0\Pattern-Q1.pdb
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\Pattern-Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\Pattern-Q1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\Pattern-Q1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\Pattern-Q1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\Pattern-Q1.dll
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\refint\Pattern-Q1.dll
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\Pattern-Q1.pdb
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\Pattern-Q1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Labs\Pattern-Q1\Pattern-Q1\obj\Debug\net6.0\ref\Pattern-Q1.dll
