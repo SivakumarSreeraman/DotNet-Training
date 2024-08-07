@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+C:\Users\Administrator\Desktop\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+D:\DotNet Trainings\Labs\MileStone1_Book_Management_System\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
